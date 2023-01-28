@@ -62,7 +62,7 @@
         <assertj.core.version>3.24.2</assertj.core.version>
         <junit.version>5.9.2</junit.version>
         <archunit.version>1.0.1</archunit.version>
-        <java.version>8</java.version>
+        <java.version>1.8</java.version>
     </properties>
 
     <dependencies>
